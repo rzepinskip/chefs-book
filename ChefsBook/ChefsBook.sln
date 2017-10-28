@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{883384BA-3FE4-4971-88C9-060DF9EBEAE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChefsBook UWP App", "Apps\ChefsBook UWP App\ChefsBook UWP App.csproj", "{FE821ECB-A032-49BF-9C86-42D9A6170F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Debug|ARM.Build.0 = Debug|ARM
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Debug|ARM.Deploy.0 = Debug|ARM
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Debug|x64.ActiveCfg = Debug|x64
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Debug|x64.Build.0 = Debug|x64
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Debug|x64.Deploy.0 = Debug|x64
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Debug|x86.ActiveCfg = Debug|x86
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Debug|x86.Build.0 = Debug|x86
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Debug|x86.Deploy.0 = Debug|x86
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Release|ARM.ActiveCfg = Release|ARM
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Release|ARM.Build.0 = Release|ARM
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Release|ARM.Deploy.0 = Release|ARM
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Release|x64.ActiveCfg = Release|x64
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Release|x64.Build.0 = Release|x64
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Release|x64.Deploy.0 = Release|x64
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Release|x86.ActiveCfg = Release|x86
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Release|x86.Build.0 = Release|x86
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE821ECB-A032-49BF-9C86-42D9A6170F33} = {883384BA-3FE4-4971-88C9-060DF9EBEAE3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D337D1-829E-443C-A77F-4F5E0CF79049}
+	EndGlobalSection
+EndGlobal
